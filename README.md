@@ -6,6 +6,8 @@
 
 ## [D4](https://github.com/heavysixer/d4)
 
+## [dimple](http://dimplejs.org/)
+
 ## [NVD3.js](http://nvd3.org/)
 
 ## [reD3](http://xibbit.github.io/reD3/)
