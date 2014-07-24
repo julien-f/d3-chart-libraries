@@ -2,7 +2,11 @@
 
 > Comparison of various D3.js chart libraries.
 
-## [d3.Chart](http://misoproject.com/d3-chart/)
+This is a collective work, all participations (e.g. bug reports, pull requests) are very welcome.
+
+## Libraries
+
+### [d3.Chart](http://misoproject.com/d3-chart/)
 
 > Framework for building reusable charts.
 
@@ -12,7 +16,7 @@
 **Cons:**
 - *TODO*
 
-## [D4](http://visible.io/)
+### [D4](http://visible.io/)
 
 > Friendly reusable charts DSL.
 
@@ -22,7 +26,7 @@
 **Cons:**
 - *TODO*
 
-## [dimple](http://dimplejs.org/)
+### [dimple](http://dimplejs.org/)
 
 > Object-oriented API for business analytics.
 
@@ -32,7 +36,7 @@
 **Cons:**
 - *TODO*
 
-## [NVD3.js](http://nvd3.org/)
+### [NVD3.js](http://nvd3.org/)
 
 > Re-usable charts.
 
@@ -42,7 +46,7 @@
 **Cons:**
 - *TODO*
 
-## [reD3](http://xibbit.github.io/reD3/)
+### [reD3](http://xibbit.github.io/reD3/)
 
 > Collection of reusable charts and components.
 
@@ -51,3 +55,10 @@
 
 **Cons:**
 - *TODO*
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the authors have waived all copyright and related or neighboring rights to this work.
