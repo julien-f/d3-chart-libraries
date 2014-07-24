@@ -41,10 +41,14 @@ This is a collective work, all participations (e.g. bug reports, pull requests) 
 > Re-usable charts.
 
 **Pros:**
-- *TODO*
+- many charts
+- charts are simple and pretty
+- very configurable
 
 **Cons:**
-- *TODO*
+- almost no documentation
+- asynchronous chart initialization (`nv.addGraph()`)
+- lot of code duplication
 
 ### [reD3](http://xibbit.github.io/reD3/)
 
