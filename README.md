@@ -49,6 +49,7 @@ This is a collective work, all participations (e.g. bug reports, pull requests) 
 - almost no documentation
 - asynchronous chart initialization (`nv.addGraph()`)
 - lot of code duplication
+- not compatible with Node.js
 
 ### [reD3](http://xibbit.github.io/reD3/)
 
