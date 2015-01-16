@@ -71,6 +71,16 @@ This is a collective work, all participations (e.g. bug reports, pull requests) 
 **Cons:**
 - *TODO*
 
+### [plottable](https://github.com/palantir/plottable)
+
+> Modular chart components
+
+**Pros:**
+- *TODO*
+
+**Cons:**
+- *TODO*
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
