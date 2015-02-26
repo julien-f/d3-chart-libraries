@@ -15,15 +15,6 @@ This is a collective work, all participations (e.g. bug reports, pull requests) 
 
 **Cons:**
 - *TODO*
-### [C3js](http://c3js.org/)
-
-> D3-based reusable chart library
-
-**Pros:**
-- *TODO*
-
-**Cons:**
-- *TODO*
 
 ### [D4](http://visible.io/)
 
@@ -92,13 +83,15 @@ This is a collective work, all participations (e.g. bug reports, pull requests) 
 
 ### [C3.js](http://c3js.org/)
 
-> TODO
+> D3-based reusable chart library
 
 **Pros:**
-- *TODO*
+- 16 kinds of charts.
+- Beautiful animations
+- Simple configuration
 
 **Cons:**
-- *TODO*
+- Limited
 
 ## License
 
